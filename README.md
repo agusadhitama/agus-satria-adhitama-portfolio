@@ -47,7 +47,7 @@ This project was built using:
 
 # 📸 Preview
 
-![Portfolio Preview](preview.jpg)
+![Portfolio Preview](preview.png)
 
 ---
 
