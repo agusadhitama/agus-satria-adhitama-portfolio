@@ -2,7 +2,7 @@
 ![CSS](https://img.shields.io/badge/CSS-3-blue)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-# 🌐 Agus Satria Adhitama – Portfolio Website
+# 🌐 Agus Satria Adhitama - Portfolio Website
 
 Welcome to my personal portfolio website.
 
